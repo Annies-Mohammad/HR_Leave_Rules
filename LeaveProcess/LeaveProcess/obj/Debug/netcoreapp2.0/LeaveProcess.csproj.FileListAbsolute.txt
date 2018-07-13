@@ -1,0 +1,11 @@
+C:\Users\anniesm\Documents\Visual Studio 2017\Projects\LeaveProcess\LeaveProcess\bin\Debug\netcoreapp2.0\LeaveProcess.deps.json
+C:\Users\anniesm\Documents\Visual Studio 2017\Projects\LeaveProcess\LeaveProcess\bin\Debug\netcoreapp2.0\LeaveProcess.runtimeconfig.json
+C:\Users\anniesm\Documents\Visual Studio 2017\Projects\LeaveProcess\LeaveProcess\bin\Debug\netcoreapp2.0\LeaveProcess.runtimeconfig.dev.json
+C:\Users\anniesm\Documents\Visual Studio 2017\Projects\LeaveProcess\LeaveProcess\bin\Debug\netcoreapp2.0\LeaveProcess.dll
+C:\Users\anniesm\Documents\Visual Studio 2017\Projects\LeaveProcess\LeaveProcess\obj\Debug\netcoreapp2.0\LeaveProcess.csprojResolveAssemblyReference.cache
+C:\Users\anniesm\Documents\Visual Studio 2017\Projects\LeaveProcess\LeaveProcess\obj\Debug\netcoreapp2.0\LeaveProcess.csproj.CoreCompileInputs.cache
+C:\Users\anniesm\Documents\Visual Studio 2017\Projects\LeaveProcess\LeaveProcess\obj\Debug\netcoreapp2.0\LeaveProcess.AssemblyInfoInputs.cache
+C:\Users\anniesm\Documents\Visual Studio 2017\Projects\LeaveProcess\LeaveProcess\obj\Debug\netcoreapp2.0\LeaveProcess.AssemblyInfo.cs
+C:\Users\anniesm\Documents\Visual Studio 2017\Projects\LeaveProcess\LeaveProcess\bin\Debug\netcoreapp2.0\LeaveProcess.pdb
+C:\Users\anniesm\Documents\Visual Studio 2017\Projects\LeaveProcess\LeaveProcess\obj\Debug\netcoreapp2.0\LeaveProcess.dll
+C:\Users\anniesm\Documents\Visual Studio 2017\Projects\LeaveProcess\LeaveProcess\obj\Debug\netcoreapp2.0\LeaveProcess.pdb
